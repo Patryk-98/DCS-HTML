@@ -34,3 +34,12 @@ aside {
   font-style: italic;
   background-color: rgb(0, 0, 0);
 }
+
+button {
+  padding: 10px;
+  margin: 25px;
+  background-color: rgb(0, 255, 47);
+  &:hover {
+    background-color: darkorchid;
+  }
+}
