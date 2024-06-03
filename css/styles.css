@@ -1,0 +1,36 @@
+body {
+  background-image: url(/img/black-ivg.jpg);
+}
+
+.ar-1 {
+  color: rgb(51, 0, 255);
+  padding: 20px;
+  &:hover {
+    color: rgb(255, 0, 0);
+  }
+}
+
+.ar-2 {
+  color: rgb(51, 0, 255);
+  padding: 20px;
+  &:hover {
+    color: rgb(217, 255, 0);
+  }
+}
+.ar-3 {
+  color: rgb(51, 0, 255);
+  padding: 20px;
+  &:hover {
+    color: rgb(255, 0, 208);
+  }
+}
+
+aside {
+  color: aqua;
+  width: 30%;
+  padding-left: 5px;
+  margin-left: 5px;
+  float: right;
+  font-style: italic;
+  background-color: rgb(0, 0, 0);
+}
