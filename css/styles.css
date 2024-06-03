@@ -1,5 +1,6 @@
 body {
   background-image: url(/img/black-ivg.jpg);
+  background-repeat: no-repeat;
 }
 
 .ar-1 {
